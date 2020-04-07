@@ -1,0 +1,12 @@
+Initializing nets
+Training network 0. n_training: 8969
+post- Training accuracy: 0.9872895529044486 | Test accuracy: 0.6932
+Training network 1. n_training: 9727
+post- Training accuracy: 0.9888968849593914 | Test accuracy: 0.7693
+Training network 2. n_training: 17752
+	post- Training accuracy: 0.9738621000450653 | Test accuracy: 0.6309
+Training network 3. n_training: 13686
+post- Training accuracy: 0.9839251790150518 | Test accuracy: 0.7404
+Training network 4. n_training: 9866
+post- Training accuracy: 0.9823636732211636 | Test accuracy: 0.7883
+--- Saving model
